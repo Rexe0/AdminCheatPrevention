@@ -1,4 +1,0 @@
-name: AdminCheatPrevention
-version: '${project.version}'
-main: me.rexe0.admincheatprevention.AdminCheatPrevention
-api-version: '1.20'
